@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Command Line RPG",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MWright98/reimagined-couscous.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MWright98/reimagined-couscous/issues"
+  },
+  "homepage": "https://github.com/MWright98/reimagined-couscous#readme",
+  "devDependencies": {
+    "jest": "^28.0.1"
+  }
+}
